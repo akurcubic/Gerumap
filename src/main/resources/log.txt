@@ -1,0 +1,11 @@
+
+[NOTIFIKACION] [12.07.2023][Morate selektovati item u projectExplorer-u]
+[ERROR] [12.07.2023][Cvor ne moze da se obrise!]
+[ERROR] [12.07.2023][Cvor ne moze imati decu!]
+[ERROR] [12.07.2023][Cvor ne moze da se obrise!]
+[WARRNING] [12.07.2023][Naziv ne moze da bude prazan!]
+[NOTIFIKACION] [22.07.2023][Morate selektovati item u projectExplorer-u]
+[ERROR] [24.07.2023][Cvor ne moze imati decu!]
+[ERROR] [24.07.2023][Cvor ne moze imati decu!]
+[ERROR] [24.07.2023][Cvor ne moze imati decu!]
+[ERROR] [24.07.2023][Elementi se dodaju na desnom toolBaru!]

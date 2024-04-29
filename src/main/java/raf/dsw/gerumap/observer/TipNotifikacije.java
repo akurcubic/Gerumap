@@ -1,0 +1,16 @@
+package raf.dsw.gerumap.observer;
+
+public enum TipNotifikacije {
+
+    DODAVANJE_MAPE,
+    BRISANJE_MAPE,
+    SET_AUTOR,
+    SET_IME,
+    MESSAGE_GENERATOR,
+    DODAT_NOVI_ELEMENT_U_MAPU,
+    IZBRISAN_ELEMENT_IZ_MAPE,
+    PROMENA_KOORDINATA,
+    PROMENA_BOJE_ELEMENTA,
+    PROMENA_ELEMENTA,
+    PROMENA_VEZE_SPEC;
+}
