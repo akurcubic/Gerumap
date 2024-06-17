@@ -1,30 +1,25 @@
-GeRuMap-app
-Simple java App (in a Maven framework) made for a university subject "Software design".
-The purpose of this project was to practice MVC app architecture and different design patterns:
+# Simple Java Desktop Application for Mind Maps
 
-Singleton,
-Observer,
-State pattern,
-Command pattern,
-Composite pattern,
-Factory method. 
-This is a simple desktop application to create Mind Maps to help with studying.
-Maps can be gouped into projects. There are no predefined templates for the way a
-map can be styled but the user can create their own template, save the map as an image
-or save the map and continue working on it later.
+This project represents a Java desktop application developed for a university subject called "Software Design". It serves as a platform for practicing various design patterns and follows the MVC (Model-View-Controller) architecture.
 
-Dictionary
-Mind Map is a structured way of showing ideas and information. They are organized
-around 1 central topic and have associations to different subtopics whics represent logical units.
+## Purpose
 
-Topic is usually one word which represent key words that refer to logical units of information.
+The purpose of this project is to create Mind Maps to aid in studying. Mind Maps provide a structured way to organize ideas and information, centered around a central topic with associations to different subtopics.
 
-Associations are lines between topics which create a hierarchy in the mind map.
+## Features
 
-Options for the User
-User can do the following:
+- **Project Management**: Users can create projects to group their Mind Maps.
+- **Mind Map Creation**: Users can create Mind Maps, optionally choosing from predefined templates.
+- **Topic and Association Creation**: Users can create topics and associations on the Mind Map.
+- **Map Editing**: Users can edit the Mind Map by moving topics, editing colors and text, and centering the map around a specific topic.
 
-Create a project,
-Create a Mind Map,
-Create a topic and associations on the map,
-Edit the map (move the topics, edit the color and text of the elements)
+
+## Design Patterns Used
+
+- **Singleton**: Ensures that there is only one instance of certain classes, such as the application controller.
+- **Observer**: Allows objects to subscribe to changes and be notified when changes occur, useful for updating the view when the model changes.
+- **State Pattern**: Helps manage the state of the application, such as different states for creating, editing, or exporting maps.
+- **Command Pattern**: Enables encapsulation of requests as objects, allowing for the parametrization of clients with queues, requests, and operations.
+- **Composite Pattern**: Treats individual objects and compositions of objects uniformly, useful for representing topics and associations in the Mind Map.
+- **Factory Method**: Provides an interface for creating objects, but allows subclasses to alter the type of objects that will be created, handy for creating different types of topics or associations.
+
