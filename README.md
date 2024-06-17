@@ -1,4 +1,4 @@
-# Simple Java Desktop Application for Mind Maps
+# Java Desktop Application for Mind Maps
 
 This project represents a Java desktop application developed for a university subject called "Software Design". It serves as a platform for practicing various design patterns and follows the MVC (Model-View-Controller) architecture.
 
@@ -9,9 +9,8 @@ The purpose of this project is to create Mind Maps to aid in studying. Mind Maps
 ## Features
 
 - **Project Management**: Users can create projects to group their Mind Maps.
-- **Mind Map Creation**: Users can create Mind Maps, optionally choosing from predefined templates.
-- **Topic and Association Creation**: Users can create topics and associations on the Mind Map.
-- **Map Editing**: Users can edit the Mind Map by moving topics, editing colors and text, and centering the map around a specific topic.
+- **Mind Map Creation**: Users can create Mind Maps.
+- **Map Editing**: Users can edit the Mind Map by moving topics, editing colors and text.
 
 
 ## Design Patterns Used
